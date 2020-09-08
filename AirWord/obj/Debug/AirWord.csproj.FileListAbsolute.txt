@@ -1,0 +1,16 @@
+C:\Users\Demo\source\repos\AirFight\AirWord\bin\Debug\AirWord.exe.config
+C:\Users\Demo\source\repos\AirFight\AirWord\bin\Debug\AirWord.exe
+C:\Users\Demo\source\repos\AirFight\AirWord\bin\Debug\AirWord.pdb
+C:\Users\Demo\source\repos\AirFight\AirWord\obj\Debug\AirWord.Properties.Resources.resources
+C:\Users\Demo\source\repos\AirFight\AirWord\obj\Debug\AirWord.csproj.GenerateResource.cache
+C:\Users\Demo\source\repos\AirFight\AirWord\obj\Debug\AirWord.csproj.CoreCompileInputs.cache
+C:\Users\Demo\source\repos\AirFight\AirWord\obj\Debug\AirWord.exe
+C:\Users\Demo\source\repos\AirFight\AirWord\obj\Debug\AirWord.pdb
+D:\Study\实训_飞机大战\AirFight\AirWord\bin\Debug\AirWord.exe.config
+D:\Study\实训_飞机大战\AirFight\AirWord\bin\Debug\AirWord.exe
+D:\Study\实训_飞机大战\AirFight\AirWord\bin\Debug\AirWord.pdb
+D:\Study\实训_飞机大战\AirFight\AirWord\obj\Debug\AirWord.csprojAssemblyReference.cache
+D:\Study\实训_飞机大战\AirFight\AirWord\obj\Debug\AirWord.Properties.Resources.resources
+D:\Study\实训_飞机大战\AirFight\AirWord\obj\Debug\AirWord.csproj.GenerateResource.cache
+D:\Study\实训_飞机大战\AirFight\AirWord\obj\Debug\AirWord.exe
+D:\Study\实训_飞机大战\AirFight\AirWord\obj\Debug\AirWord.pdb
